@@ -1,19 +1,5 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/yogeshverma1998/yogeshverma1998.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 #  **A Living Review of Machine Learning for Particle Physics**
 
@@ -35,6 +21,25 @@ The purpose of this note is to collect references for modern machine learning as
         * [Modern Machine Learning and Particle Physics](https://arxiv.org/abs/2103.12226)
         * [Machine Learning in the Search for New Fundamental Physics](https://arxiv.org/abs/2112.03769)
         * [Artificial Intelligence and Machine Learning in Nuclear Physics](https://arxiv.org/abs/2112.02309)
+
+
+
+You can use the [editor on GitHub](https://github.com/yogeshverma1998/yogeshverma1998.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+
 
 - Bulleted
 - List
