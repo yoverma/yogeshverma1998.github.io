@@ -11,6 +11,7 @@ Research Ideas (:lock:)
 
       * [ODE<sup>2</sup>VAE](https://arxiv.org/pdf/1905.10994.pdf)
       * [Neural ODEs](https://arxiv.org/pdf/1806.07366.pdf)
+      * [Neural Flows](https://proceedings.neurips.cc/paper/2021/file/b21f9f98829dea9a48fd8aaddc1f159d-Paper.pdf)
 
 
 *  Conformer generation and molecule as 3d object
