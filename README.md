@@ -18,7 +18,8 @@ Research Ideas (:lock:)
 
 *  Conformer generation and molecule as 3d object
 
-      * [ODE<sup>2</sup>VAE](https://arxiv.org/pdf/1905.10994.pdf)
+      * [Learning Gradient Fields for Molecular Conformation Generation](https://arxiv.org/pdf/2105.03902.pdf)
+      * [DGSM](https://proceedings.neurips.cc/paper/2021/file/a45a1d12ee0fb7f1f872ab91da18f899-Paper.pdf)
   
          
 *  Slides Presented:
