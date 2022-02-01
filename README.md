@@ -14,7 +14,13 @@ Research Ideas (:lock:)
       * [Neural Flows](https://proceedings.neurips.cc/paper/2021/file/b21f9f98829dea9a48fd8aaddc1f159d-Paper.pdf) 📝
       * [FFJORD](https://arxiv.org/pdf/1810.01367.pdf)
       * [Review of Normalizing flows](https://arxiv.org/pdf/1912.02762.pdf) 📝
+      * [Variational multiple shooting for Bayesian ODEs with Gaussian processes](https://arxiv.org/pdf/2106.10905.pdf) 📝
+      
+* Physics Inspired ML
 
+     * [Noether Networks](https://arxiv.org/pdf/2112.03321.pdf)
+     * [Interaction Networks for Learning about Objects,Relations and Physics](https://arxiv.org/pdf/1612.00222.pdf)
+     * [Physics Informed Machine Learning](https://www.nature.com/articles/s42254-021-00314-5.pdf) 📝
 
 *  Conformer generation and molecule as 3d object
 
@@ -24,7 +30,8 @@ Research Ideas (:lock:)
          
 *  Slides Presented:
      
-      * [26/01/2022](https://www.overleaf.com/read/mcrgshjjsffg) [Regular meeting]
+      * [26/01/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_260122.pdf) [Regular meeting]
+      * [2/02/2022]() [Regular Meeting]
 
 
 
