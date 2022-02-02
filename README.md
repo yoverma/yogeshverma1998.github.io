@@ -31,7 +31,7 @@ Research Ideas (:lock:)
 *  Slides Presented:
      
       * [26/01/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_260122.pdf) [Regular meeting]
-      * [2/02/2022]() [Regular Meeting]
+      * [2/02/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_02022022.pdf) [Regular Meeting]
 
 
 
