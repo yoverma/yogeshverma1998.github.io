@@ -4,8 +4,10 @@
 
 The purpose of this note is to act as a one place repository for all the literature read, presentations and ideas which have been formulated reside here and act as a one go place. The literature read has been segregated in different domains ranging from dynamics to representing molecule as a 3d object. Paper which are being currently read and analyzed are marked with 📝. The slides presented by me in subsequent meetings are dated and can be found at the end of this page. 
 
-Research Ideas (:lock:)
-
+```diff
+- Paper Count = 12/1280
++ Reading = 3
+```
 
 *  Dynamics
 
