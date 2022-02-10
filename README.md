@@ -13,25 +13,33 @@ Research Ideas (:lock:)
       * [Neural ODEs](https://arxiv.org/pdf/1806.07366.pdf)
       * [Neural Flows](https://proceedings.neurips.cc/paper/2021/file/b21f9f98829dea9a48fd8aaddc1f159d-Paper.pdf) 📝
       * [FFJORD](https://arxiv.org/pdf/1810.01367.pdf)
+      * [Neural Processes](https://arxiv.org/abs/1807.01622)
       * [Review of Normalizing flows](https://arxiv.org/pdf/1912.02762.pdf) 📝
-      * [Variational multiple shooting for Bayesian ODEs with Gaussian processes](https://arxiv.org/pdf/2106.10905.pdf) 📝
+      * [Variational multiple shooting for Bayesian ODEs with Gaussian processes](https://arxiv.org/pdf/2106.10905.pdf)
+      * [Non-Autoregressive neural machine translation](https://openreview.net/pdf?id=B1l8BtlCb) 📝
       
 * Physics Inspired ML
 
      * [Noether Networks](https://arxiv.org/pdf/2112.03321.pdf)
      * [Interaction Networks for Learning about Objects,Relations and Physics](https://arxiv.org/pdf/1612.00222.pdf)
-     * [Physics Informed Machine Learning](https://www.nature.com/articles/s42254-021-00314-5.pdf) 📝
+     * [Physics Informed Machine Learning](https://www.nature.com/articles/s42254-021-00314-5.pdf)
 
 *  Conformer generation and molecule as 3d object
 
       * [Learning Gradient Fields for Molecular Conformation Generation](https://arxiv.org/pdf/2105.03902.pdf)
       * [DGSM](https://proceedings.neurips.cc/paper/2021/file/a45a1d12ee0fb7f1f872ab91da18f899-Paper.pdf)
+
+*  RL
+
+      * [Reinforcement Learning and Control as Probabilistic Inference](https://arxiv.org/pdf/1805.00909.pdf) 📝
+  
   
          
 *  Slides Presented:
      
       * [26/01/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_260122.pdf) [Regular meeting]
       * [2/02/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_02022022.pdf) [Regular Meeting]
+      * [10/2/2022](https://aaltofi-my.sharepoint.com/:p:/g/personal/yogesh_verma_aalto_fi/EWoJvVJtTjxMq-VD1zCVh_0B0aj8D7Ukapw7A-fc68ksSA?e=0k0jAU)[Regular Meeting]
 
 
 
