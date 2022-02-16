@@ -5,31 +5,39 @@
 The purpose of this note is to act as a one place repository for all the literature read, presentations and ideas which have been formulated reside here and act as a one go place. The literature read has been segregated in different domains ranging from dynamics to representing molecule as a 3d object. Paper which are being currently read and analyzed are marked with 📝. The slides presented by me in subsequent meetings are dated and can be found at the end of this page. 
 
 ```diff
-- Paper Count = 12/1280
-+ Reading = 3
+- Paper Count = 17/1280
++ Reading = 5
 ```
 
 *  Dynamics
 
       * [ODE<sup>2</sup>VAE](https://arxiv.org/pdf/1905.10994.pdf)
       * [Neural ODEs](https://arxiv.org/pdf/1806.07366.pdf)
-      * [Neural Flows](https://proceedings.neurips.cc/paper/2021/file/b21f9f98829dea9a48fd8aaddc1f159d-Paper.pdf) 📝
+      * [Neural Flows](https://proceedings.neurips.cc/paper/2021/file/b21f9f98829dea9a48fd8aaddc1f159d-Paper.pdf)
       * [FFJORD](https://arxiv.org/pdf/1810.01367.pdf)
       * [Neural Processes](https://arxiv.org/abs/1807.01622)
       * [Review of Normalizing flows](https://arxiv.org/pdf/1912.02762.pdf) 📝
       * [Variational multiple shooting for Bayesian ODEs with Gaussian processes](https://arxiv.org/pdf/2106.10905.pdf)
       * [Non-Autoregressive neural machine translation](https://openreview.net/pdf?id=B1l8BtlCb) 📝
+      * [Your classifier is secretly an energy based model and you should treat it like one](https://arxiv.org/abs/1912.03263)
+      * [Neural Relational Inference for Interacting systems](https://arxiv.org/pdf/2102.10240.pdf)
+      * 
       
 * Physics Inspired ML
 
      * [Noether Networks](https://arxiv.org/pdf/2112.03321.pdf)
      * [Interaction Networks for Learning about Objects,Relations and Physics](https://arxiv.org/pdf/1612.00222.pdf)
      * [Physics Informed Machine Learning](https://www.nature.com/articles/s42254-021-00314-5.pdf)
+     * [Deconstructing the inductive biases of Hamiltonian neural networks](https://arxiv.org/pdf/2202.04836.pdf) 📝
+    
 
-*  Conformer generation and molecule as 3d object
+*  Conformer generation and structure prediction
 
       * [Learning Gradient Fields for Molecular Conformation Generation](https://arxiv.org/pdf/2105.03902.pdf)
       * [DGSM](https://proceedings.neurips.cc/paper/2021/file/a45a1d12ee0fb7f1f872ab91da18f899-Paper.pdf)
+      * [Learning neural generative dynamics for molecular conformation generation](https://arxiv.org/pdf/2102.10240.pdf)
+      * [Geometric Deep Learning on Molecular Representations](https://arxiv.org/pdf/2107.12375.pdf)
+      * [EQUIBIND: Geometric Deep Learning for Drug Binding Structure Prediction](https://arxiv.org/pdf/2202.05146.pdf) 📝
 
 *  RL
 
@@ -42,6 +50,7 @@ The purpose of this note is to act as a one place repository for all the literat
       * [26/01/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_260122.pdf) [Regular meeting]
       * [2/02/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_02022022.pdf) [Regular Meeting]
       * [10/2/2022](https://aaltofi-my.sharepoint.com/:p:/g/personal/yogesh_verma_aalto_fi/EWoJvVJtTjxMq-VD1zCVh_0B0aj8D7Ukapw7A-fc68ksSA?e=0k0jAU)[Regular Meeting]
+      * [16/2/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_16022022.pdf)[Regular Meeting]
 
 
 
