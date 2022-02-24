@@ -21,7 +21,7 @@ The purpose of this note is to act as a one place repository for all the literat
       * [Non-Autoregressive neural machine translation](https://openreview.net/pdf?id=B1l8BtlCb) 📝
       * [Your classifier is secretly an energy based model and you should treat it like one](https://arxiv.org/abs/1912.03263)
       * [Neural Relational Inference for Interacting systems](https://arxiv.org/pdf/2102.10240.pdf)
-      * 
+      * [Graph Normalizing flows](https://arxiv.org/pdf/1905.13177.pdf)
       
 * Physics Inspired ML
 
@@ -37,7 +37,7 @@ The purpose of this note is to act as a one place repository for all the literat
       * [DGSM](https://proceedings.neurips.cc/paper/2021/file/a45a1d12ee0fb7f1f872ab91da18f899-Paper.pdf)
       * [Learning neural generative dynamics for molecular conformation generation](https://arxiv.org/pdf/2102.10240.pdf)
       * [Geometric Deep Learning on Molecular Representations](https://arxiv.org/pdf/2107.12375.pdf)
-      * [EQUIBIND: Geometric Deep Learning for Drug Binding Structure Prediction](https://arxiv.org/pdf/2202.05146.pdf) 📝
+      * [EQUIBIND: Geometric Deep Learning for Drug Binding Structure Prediction](https://arxiv.org/pdf/2202.05146.pdf)
 
 *  RL
 
@@ -51,6 +51,7 @@ The purpose of this note is to act as a one place repository for all the literat
       * [2/02/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_02022022.pdf) [Regular Meeting]
       * [10/2/2022](https://aaltofi-my.sharepoint.com/:p:/g/personal/yogesh_verma_aalto_fi/EWoJvVJtTjxMq-VD1zCVh_0B0aj8D7Ukapw7A-fc68ksSA?e=0k0jAU)[Regular Meeting]
       * [16/2/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_16022022.pdf)[Regular Meeting]
+      * [23/2/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_23022022.pdf)[Regular Meeting]
 
 
 
