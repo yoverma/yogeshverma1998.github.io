@@ -5,7 +5,7 @@
 The purpose of this note is to act as a one place repository for all the literature read, presentations and ideas which have been formulated reside here and act as a one go place. The literature read has been segregated in different domains ranging from dynamics to representing molecule as a 3d object. Paper which are being currently read and analyzed are marked with 📝. The slides presented by me in subsequent meetings are dated and can be found at the end of this page. 
 
 ```diff
-- Paper Count = 17/1280
+- Paper Count = 20/1280
 + Reading = 5
 ```
 
@@ -29,6 +29,7 @@ The purpose of this note is to act as a one place repository for all the literat
      * [Interaction Networks for Learning about Objects,Relations and Physics](https://arxiv.org/pdf/1612.00222.pdf)
      * [Physics Informed Machine Learning](https://www.nature.com/articles/s42254-021-00314-5.pdf)
      * [Deconstructing the inductive biases of Hamiltonian neural networks](https://arxiv.org/pdf/2202.04836.pdf) 📝
+     * [Hamiltonian graph networks with ODE integrators](https://arxiv.org/abs/1909.12790)
     
 
 *  Conformer generation and structure prediction
