@@ -5,7 +5,7 @@
 The purpose of this note is to act as a one place repository for all the literature read, presentations and ideas which have been formulated reside here and act as a one go place. The literature read has been segregated in different domains ranging from dynamics to representing molecule as a 3d object. Paper which are being currently read and analyzed are marked with 📝. The slides presented by me in subsequent meetings are dated and can be found at the end of this page. 
 
 ```diff
-- Paper Count = 20/1280
+- Paper Count = 27/1280
 + Reading = 5
 ```
 
@@ -22,13 +22,17 @@ The purpose of this note is to act as a one place repository for all the literat
       * [Your classifier is secretly an energy based model and you should treat it like one](https://arxiv.org/abs/1912.03263)
       * [Neural Relational Inference for Interacting systems](https://arxiv.org/pdf/2102.10240.pdf)
       * [Graph Normalizing flows](https://arxiv.org/pdf/1905.13177.pdf)
+      * [Diffusion Kernels on Graphs and Other Discrete Input Spaces](https://www.ml.cmu.edu/research/dap-papers/kondor-diffusion-kernels.pdf)
+      * [Learning Continuous-time PDEs from sparse data with GNNs](https://arxiv.org/abs/2006.08956)
+      * [Continuous Graph Flow](https://arxiv.org/abs/1908.02436)
+      * [PointFlow](https://arxiv.org/pdf/1906.12320.pdf)
       
 * Physics Inspired ML
 
      * [Noether Networks](https://arxiv.org/pdf/2112.03321.pdf)
      * [Interaction Networks for Learning about Objects,Relations and Physics](https://arxiv.org/pdf/1612.00222.pdf)
      * [Physics Informed Machine Learning](https://www.nature.com/articles/s42254-021-00314-5.pdf)
-     * [Deconstructing the inductive biases of Hamiltonian neural networks](https://arxiv.org/pdf/2202.04836.pdf) 📝
+     * [Deconstructing the inductive biases of Hamiltonian neural networks](https://arxiv.org/pdf/2202.04836.pdf)
      * [Hamiltonian graph networks with ODE integrators](https://arxiv.org/abs/1909.12790)
     
 
@@ -39,6 +43,10 @@ The purpose of this note is to act as a one place repository for all the literat
       * [Learning neural generative dynamics for molecular conformation generation](https://arxiv.org/pdf/2102.10240.pdf)
       * [Geometric Deep Learning on Molecular Representations](https://arxiv.org/pdf/2107.12375.pdf)
       * [EQUIBIND: Geometric Deep Learning for Drug Binding Structure Prediction](https://arxiv.org/pdf/2202.05146.pdf)
+      * [Spanning Tree-based Graph Generation for Molecules](https://openreview.net/forum?id=w60btE_8T2m)
+      * [Molecular Surface Representation Using 3D Zernike Descriptors for Protein Shape
+Comparison and Docking](https://pubmed.ncbi.nlm.nih.gov/21787306/)
+      * []
 
 *  RL
 
@@ -53,6 +61,8 @@ The purpose of this note is to act as a one place repository for all the literat
       * [10/2/2022](https://aaltofi-my.sharepoint.com/:p:/g/personal/yogesh_verma_aalto_fi/EWoJvVJtTjxMq-VD1zCVh_0B0aj8D7Ukapw7A-fc68ksSA?e=0k0jAU)[Regular Meeting]
       * [16/2/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_16022022.pdf)[Regular Meeting]
       * [23/2/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_23022022.pdf)[Regular Meeting]
+      * [02/3/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_02032022.pdf)[Regular Meeting]
+      * [09/3/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_09032022.pdf)[Regular Meeting]
 
 
 
