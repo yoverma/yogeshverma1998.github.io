@@ -5,7 +5,7 @@
 The purpose of this note is to act as a one place repository for all the literature read, presentations and ideas which have been formulated reside here and act as a one go place. The literature read has been segregated in different domains ranging from dynamics to representing molecule as a 3d object. Paper which are being currently read and analyzed are marked with 📝. The slides presented by me in subsequent meetings are dated and can be found at the end of this page. 
 
 ```diff
-- Paper Count = 27/1280
+- Paper Count = 32 /1280
 + Reading = 5
 ```
 
@@ -46,7 +46,11 @@ The purpose of this note is to act as a one place repository for all the literat
       * [Spanning Tree-based Graph Generation for Molecules](https://openreview.net/forum?id=w60btE_8T2m)
       * [Molecular Surface Representation Using 3D Zernike Descriptors for Protein Shape
 Comparison and Docking](https://pubmed.ncbi.nlm.nih.gov/21787306/)
-      * []
+      * [Categorical Normalizing Flow](https://arxiv.org/pdf/2006.09790.pdf)
+      * [GraphDF: A Discrete Flow Model for Molecular Graph Generation](https://arxiv.org/abs/2102.01189)
+      * [GraphNVP](https://arxiv.org/abs/1905.11600)
+      * [GeoDiff](https://openreview.net/pdf?id=PzcvxEMzvQC)
+      * [Dual use of artifcial-intelligence-powered drug discovery](https://www.nature.com/articles/s42256-022-00465-9.pdf)
 
 *  RL
 
@@ -63,6 +67,7 @@ Comparison and Docking](https://pubmed.ncbi.nlm.nih.gov/21787306/)
       * [23/2/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_23022022.pdf)[Regular Meeting]
       * [02/3/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_02032022.pdf)[Regular Meeting]
       * [09/3/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_09032022.pdf)[Regular Meeting]
+      * [16/3/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_16032022.pdf)[Regular Meeting]
 
 
 
