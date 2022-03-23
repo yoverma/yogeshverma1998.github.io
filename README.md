@@ -5,7 +5,7 @@
 The purpose of this note is to act as a one place repository for all the literature read, presentations and ideas which have been formulated reside here and act as a one go place. The literature read has been segregated in different domains ranging from dynamics to representing molecule as a 3d object. Paper which are being currently read and analyzed are marked with 📝. The slides presented by me in subsequent meetings are dated and can be found at the end of this page. 
 
 ```diff
-- Paper Count = 32 /1280
+- Paper Count = 36 /1280
 + Reading = 5
 ```
 
@@ -22,7 +22,6 @@ The purpose of this note is to act as a one place repository for all the literat
       * [Your classifier is secretly an energy based model and you should treat it like one](https://arxiv.org/abs/1912.03263)
       * [Neural Relational Inference for Interacting systems](https://arxiv.org/pdf/2102.10240.pdf)
       * [Graph Normalizing flows](https://arxiv.org/pdf/1905.13177.pdf)
-      * [Diffusion Kernels on Graphs and Other Discrete Input Spaces](https://www.ml.cmu.edu/research/dap-papers/kondor-diffusion-kernels.pdf)
       * [Learning Continuous-time PDEs from sparse data with GNNs](https://arxiv.org/abs/2006.08956)
       * [Continuous Graph Flow](https://arxiv.org/abs/1908.02436)
       * [PointFlow](https://arxiv.org/pdf/1906.12320.pdf)
@@ -49,8 +48,17 @@ Comparison and Docking](https://pubmed.ncbi.nlm.nih.gov/21787306/)
       * [Categorical Normalizing Flow](https://arxiv.org/pdf/2006.09790.pdf)
       * [GraphDF: A Discrete Flow Model for Molecular Graph Generation](https://arxiv.org/abs/2102.01189)
       * [GraphNVP](https://arxiv.org/abs/1905.11600)
-      * [GeoDiff](https://openreview.net/pdf?id=PzcvxEMzvQC)
       * [Dual use of artifcial-intelligence-powered drug discovery](https://www.nature.com/articles/s42256-022-00465-9.pdf)
+      * [Energy-Inspired Molecular Conformation Optimization](https://openreview.net/forum?id=7QfLW-XZTl)
+      * [Chemical-Reaction-Aware Molecule Representation Learning](https://arxiv.org/abs/2109.09888)
+      
+
+*  Diffusion and Score Matching Methods
+
+      * [GeoDiff](https://openreview.net/pdf?id=PzcvxEMzvQC)
+      * [Diffusion Kernels on Graphs and Other Discrete Input Spaces](https://www.ml.cmu.edu/research/dap-papers/kondor-diffusion-kernels.pdf)
+      * [Denoising Probabilistic Diffusion models](https://arxiv.org/abs/2006.11239)
+      * [Estimation of Non-Normalized Statistical Models by Score Matching](https://jmlr.org/papers/volume6/hyvarinen05a/old.pdf)
 
 *  RL
 
