@@ -5,7 +5,7 @@
 The purpose of this note is to act as a one place repository for all the literature read, presentations and ideas which have been formulated reside here and act as a one go place. The literature read has been segregated in different domains ranging from dynamics to representing molecule as a 3d object. Paper which are being currently read and analyzed are marked with 📝. The slides presented by me in subsequent meetings are dated and can be found at the end of this page. 
 
 ```diff
-- Paper Count = 36 /1280
+- Paper Count = 52 /1280
 + Reading = 5
 ```
 
@@ -25,6 +25,10 @@ The purpose of this note is to act as a one place repository for all the literat
       * [Learning Continuous-time PDEs from sparse data with GNNs](https://arxiv.org/abs/2006.08956)
       * [Continuous Graph Flow](https://arxiv.org/abs/1908.02436)
       * [PointFlow](https://arxiv.org/pdf/1906.12320.pdf)
+      * [Evolving-Graph Gaussian Processes](https://arxiv.org/abs/2106.15127#:~:text=Graph%20Gaussian%20Processes%20(GGPs)%20provide,limiting%20the%20applications%20of%20GGPs.)
+      * [Conditional Random fields](https://arxiv.org/abs/2106.15127#:~:text=Graph%20Gaussian%20Processes%20(GGPs)%20provide,limiting%20the%20applications%20of%20GGPs.)
+      * [PDE-GCN: Novel Architectures for Graph Neural Networks Motivated by Partial Differential Equations](https://arxiv.org/abs/2108.01938)
+      * [Spherical Message passing for 3D Graph Networks](https://openreview.net/forum?id=givsRXsOt9r)
       
 * Physics Inspired ML
 
@@ -51,6 +55,14 @@ Comparison and Docking](https://pubmed.ncbi.nlm.nih.gov/21787306/)
       * [Dual use of artifcial-intelligence-powered drug discovery](https://www.nature.com/articles/s42256-022-00465-9.pdf)
       * [Energy-Inspired Molecular Conformation Optimization](https://openreview.net/forum?id=7QfLW-XZTl)
       * [Chemical-Reaction-Aware Molecule Representation Learning](https://arxiv.org/abs/2109.09888)
+      * [Evaluating generalization in Gflow Nets for molecule design](https://openreview.net/pdf?id=JFSaHKNZ35b)
+      * [An auto regressive flow model for 3D molecular geometry generation from scratch](https://openreview.net/forum?id=C03Ajc-NS5W)
+      * [Molecular RNN](https://arxiv.org/abs/1705.04612)
+      * [Learning to extend molecular scaffolds with structural motifs](https://arxiv.org/abs/2103.03864)
+      * [Learning 3D representations of molecular chirality with invariance to bond rotations](https://arxiv.org/abs/2110.04383)
+      * [Pre-training molecular graph representation with 3D geometry](https://arxiv.org/abs/2110.07728)
+      * [DATA-EFFICIENT GRAPH GRAMMAR LEARNING FOR MOLECULAR GENERATION](https://openreview.net/forum?id=l4IHywGq6a)
+      * [Geometric Transformers for protein interface contact prediction](https://arxiv.org/abs/2110.02423)
       
 
 *  Diffusion and Score Matching Methods
@@ -59,6 +71,11 @@ Comparison and Docking](https://pubmed.ncbi.nlm.nih.gov/21787306/)
       * [Diffusion Kernels on Graphs and Other Discrete Input Spaces](https://www.ml.cmu.edu/research/dap-papers/kondor-diffusion-kernels.pdf)
       * [Denoising Probabilistic Diffusion models](https://arxiv.org/abs/2006.11239)
       * [Estimation of Non-Normalized Statistical Models by Score Matching](https://jmlr.org/papers/volume6/hyvarinen05a/old.pdf)
+      * [GRAND: Graph Neural Diffusion](https://arxiv.org/abs/2106.10934)
+      * [Learning energy-based models by diffusion recovery likelihood](https://arxiv.org/abs/2012.08125)
+      * [Denoising Diffusion GANs](http://arxiv.org/abs/2112.07804)
+      * [Scalable Gradients for SDE](https://arxiv.org/abs/2001.01328)
+      * []
 
 *  RL
 
@@ -76,6 +93,11 @@ Comparison and Docking](https://pubmed.ncbi.nlm.nih.gov/21787306/)
       * [02/3/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_02032022.pdf)[Regular Meeting]
       * [09/3/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_09032022.pdf)[Regular Meeting]
       * [16/3/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_16032022.pdf)[Regular Meeting]
+      * [23/3/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_23032022.pdf)[Regular Meeting]
+      * [30/3/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_30032022.pdf)[Regular Meeting]
+      * [06/4/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_06042022.pdf)[Regular Meeting]
+      * [13/4/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_13042022.pdf)[Regular Meeting]
+      * [20/4/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_20042022.pdf)[Regular Meeting]
 
 
 
