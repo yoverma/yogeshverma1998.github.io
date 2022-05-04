@@ -2,10 +2,10 @@
 
 <!--[![download](https://img.shields.io/badge/download-review-blue.svg)](https://iml-wg.github.io/HEPML-LivingReview/review/hepml-review.pdf)-->
 
-The purpose of this note is to act as a one place repository for all the literature read, presentations and ideas which have been formulated reside here and act as a one go place. The literature read has been segregated in different domains ranging from dynamics to representing molecule as a 3d object. Paper which are being currently read and analyzed are marked with 📝. The slides presented by me in subsequent meetings are dated and can be found at the end of this page. 
+The purpose of this note is to act as a one place repository for all the literature read, presentations and ideas which have been formulated reside here and act as a one go place. The literature read has been segregated in different domains ranging from dynamics to representing molecule as a 3d object. Paper which are being currently read and analyzed are marked with 📝. The slides presented by me in subsequent meetings are dated and can be found at the end of this page.
 
 ```diff
-- Paper Count = 52 /1280
+- Paper Count = 56 /1280
 + Reading = 5
 ```
 
@@ -29,6 +29,7 @@ The purpose of this note is to act as a one place repository for all the literat
       * [Conditional Random fields](https://arxiv.org/abs/2106.15127#:~:text=Graph%20Gaussian%20Processes%20(GGPs)%20provide,limiting%20the%20applications%20of%20GGPs.)
       * [PDE-GCN: Novel Architectures for Graph Neural Networks Motivated by Partial Differential Equations](https://arxiv.org/abs/2108.01938)
       * [Spherical Message passing for 3D Graph Networks](https://openreview.net/forum?id=givsRXsOt9r)
+      * [Simple GNN Regularisation for 3D Molecule Property prediction](https://openreview.net/forum?id=1wVvweK3oIb)
       
 * Physics Inspired ML
 
@@ -63,6 +64,8 @@ Comparison and Docking](https://pubmed.ncbi.nlm.nih.gov/21787306/)
       * [Pre-training molecular graph representation with 3D geometry](https://arxiv.org/abs/2110.07728)
       * [DATA-EFFICIENT GRAPH GRAMMAR LEARNING FOR MOLECULAR GENERATION](https://openreview.net/forum?id=l4IHywGq6a)
       * [Geometric Transformers for protein interface contact prediction](https://arxiv.org/abs/2110.02423)
+      * [A 3D Molecule Generative Model for Structure-Based Drug Design](https://arxiv.org/abs/2203.10446)
+      * [Crystal Diffusion Variational Autoencoder for Periodic Material Generation](https://arxiv.org/abs/2110.06197)
       
 
 *  Diffusion and Score Matching Methods
@@ -75,7 +78,7 @@ Comparison and Docking](https://pubmed.ncbi.nlm.nih.gov/21787306/)
       * [Learning energy-based models by diffusion recovery likelihood](https://arxiv.org/abs/2012.08125)
       * [Denoising Diffusion GANs](http://arxiv.org/abs/2112.07804)
       * [Scalable Gradients for SDE](https://arxiv.org/abs/2001.01328)
-      * []
+      * [Graph Anisotropic Diffusion](https://arxiv.org/abs/2205.00354)
 
 *  RL
 
@@ -98,6 +101,8 @@ Comparison and Docking](https://pubmed.ncbi.nlm.nih.gov/21787306/)
       * [06/4/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_06042022.pdf)[Regular Meeting]
       * [13/4/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_13042022.pdf)[Regular Meeting]
       * [20/4/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_20042022.pdf)[Regular Meeting]
+      * [27/4/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_27042022.pdf)[Regular Meeting]
+      * [04/05/2022]()[Regular Meeting]
 
 
 
