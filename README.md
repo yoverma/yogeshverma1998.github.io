@@ -5,7 +5,7 @@
 The purpose of this note is to act as a one place repository for all the literature read, presentations and ideas which have been formulated reside here and act as a one go place. The literature read has been segregated in different domains ranging from dynamics to representing molecule as a 3d object. Paper which are being currently read and analyzed are marked with 📝. The slides presented by me in subsequent meetings are dated and can be found at the end of this page.
 
 ```diff
-- Paper Count = 56 /1280
+- Paper Count = 65 /1280
 + Reading = 5
 ```
 
@@ -30,6 +30,10 @@ The purpose of this note is to act as a one place repository for all the literat
       * [PDE-GCN: Novel Architectures for Graph Neural Networks Motivated by Partial Differential Equations](https://arxiv.org/abs/2108.01938)
       * [Spherical Message passing for 3D Graph Networks](https://openreview.net/forum?id=givsRXsOt9r)
       * [Simple GNN Regularisation for 3D Molecule Property prediction](https://openreview.net/forum?id=1wVvweK3oIb)
+      * [Message Passing Neural PDE Solvers](https://arxiv.org/abs/2202.03376)
+      * [Temporal Graph Networks](https://arxiv.org/abs/2006.10637)
+      * [Neural Controlled Differential Equations](https://arxiv.org/abs/2005.08926)
+      * [Variational Neural Cellular Automata](https://openreview.net/pdf?id=7fFO4cMBx_9)
       
 * Physics Inspired ML
 
@@ -68,7 +72,7 @@ Comparison and Docking](https://pubmed.ncbi.nlm.nih.gov/21787306/)
       * [Crystal Diffusion Variational Autoencoder for Periodic Material Generation](https://arxiv.org/abs/2110.06197)
       
 
-*  Diffusion and Score Matching Methods
+*  Diffusion, SDE and Score Matching Methods
 
       * [GeoDiff](https://openreview.net/pdf?id=PzcvxEMzvQC)
       * [Diffusion Kernels on Graphs and Other Discrete Input Spaces](https://www.ml.cmu.edu/research/dap-papers/kondor-diffusion-kernels.pdf)
@@ -79,6 +83,12 @@ Comparison and Docking](https://pubmed.ncbi.nlm.nih.gov/21787306/)
       * [Denoising Diffusion GANs](http://arxiv.org/abs/2112.07804)
       * [Scalable Gradients for SDE](https://arxiv.org/abs/2001.01328)
       * [Graph Anisotropic Diffusion](https://arxiv.org/abs/2205.00354)
+      * [Auto-Regressive Diffusion Models](https://arxiv.org/abs/2110.02037)
+      * [GRAND++](https://openreview.net/forum?id=EMxu-dzvJk)
+      * [Reimaninan Neural SDE](https://openreview.net/pdf?id=SF8lkH-J6e9)
+      * [Neural Sheaf Diffusion](https://openreview.net/forum?id=HtLzqEb1aec)
+      * [Neural SDEs as Infinite-Dimensional GANs](https://arxiv.org/pdf/2102.03657)
+      * 
 
 *  RL
 
@@ -103,6 +113,8 @@ Comparison and Docking](https://pubmed.ncbi.nlm.nih.gov/21787306/)
       * [20/4/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_20042022.pdf)[Regular Meeting]
       * [27/4/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_27042022.pdf)[Regular Meeting]
       * [04/05/2022]()[Regular Meeting]
+      * [25/05/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_25052022.pdf)[Regular Meeting]
+      * [01/06/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_01062022.pdf)[Regular Meeting]
 
 
 
