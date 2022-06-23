@@ -2,10 +2,10 @@
 
 <!--[![download](https://img.shields.io/badge/download-review-blue.svg)](https://iml-wg.github.io/HEPML-LivingReview/review/hepml-review.pdf)-->
 
-The purpose of this note is to act as a one place repository for all the literature read, presentations and ideas which have been formulated reside here and act as a one go place. The literature read has been segregated in different domains ranging from dynamics to representing molecule as a 3d object. Paper which are being currently read and analyzed are marked with 📝. The slides presented by me in subsequent meetings are dated and can be found at the end of this page.
+The purpose of this note is to act as a one place repository for all the literature read, presentations and ideas which have been formulated reside here and act as a one go place. The literature read has been segregated in different domains ranging from dynamics to representing molecule as a 3d object. Paper which are being currently read and analyzed are marked with 📝.
 
 ```diff
-- Paper Count = 65 /1280
+- Paper Count = 77 /1280
 + Reading = 5
 ```
 
@@ -23,7 +23,6 @@ The purpose of this note is to act as a one place repository for all the literat
       * [Neural Relational Inference for Interacting systems](https://arxiv.org/pdf/2102.10240.pdf)
       * [Graph Normalizing flows](https://arxiv.org/pdf/1905.13177.pdf)
       * [Learning Continuous-time PDEs from sparse data with GNNs](https://arxiv.org/abs/2006.08956)
-      * [Continuous Graph Flow](https://arxiv.org/abs/1908.02436)
       * [PointFlow](https://arxiv.org/pdf/1906.12320.pdf)
       * [Evolving-Graph Gaussian Processes](https://arxiv.org/abs/2106.15127#:~:text=Graph%20Gaussian%20Processes%20(GGPs)%20provide,limiting%20the%20applications%20of%20GGPs.)
       * [Conditional Random fields](https://arxiv.org/abs/2106.15127#:~:text=Graph%20Gaussian%20Processes%20(GGPs)%20provide,limiting%20the%20applications%20of%20GGPs.)
@@ -34,6 +33,14 @@ The purpose of this note is to act as a one place repository for all the literat
       * [Temporal Graph Networks](https://arxiv.org/abs/2006.10637)
       * [Neural Controlled Differential Equations](https://arxiv.org/abs/2005.08926)
       * [Variational Neural Cellular Automata](https://openreview.net/pdf?id=7fFO4cMBx_9)
+      * [Learning to generate 3D shapes with generative cellular automata](https://arxiv.org/abs/2103.04130)
+      * [Neural process with stochastic attention](http://arxiv.org/abs/2204.05449#:~:text=Neural%20Processes%20with%20Stochastic%20Attention%3A%20Paying%20more%20attention%20to%20the%20context%20dataset,-Mingyu%20Kim%2C%20Kyeongryeol&text=Neural%20processes%20(NPs)%20aim%20to,identifier%20for%20a%20novel%20task.)
+      * [Handling distribution shifts in graphs](https://arxiv.org/abs/2202.02466)
+      * [Learning to Solve PDE-constrained Inverse Problems with Graph Networks](https://arxiv.org/abs/2206.00711)
+      * [Topological graph neural networks](https://arxiv.org/abs/2102.07835)
+      * [Graph Coupled Oscillator Networks](https://arxiv.org/abs/2202.02296)
+      * [Graph Condensation for Graph Neural Networks](https://arxiv.org/abs/2110.07580)
+      * [Sign and Basis Invariant Networks for Spectral Graph Representation Learning](https://arxiv.org/abs/2202.13013)
       
 * Physics Inspired ML
 
@@ -42,6 +49,7 @@ The purpose of this note is to act as a one place repository for all the literat
      * [Physics Informed Machine Learning](https://www.nature.com/articles/s42254-021-00314-5.pdf)
      * [Deconstructing the inductive biases of Hamiltonian neural networks](https://arxiv.org/pdf/2202.04836.pdf)
      * [Hamiltonian graph networks with ODE integrators](https://arxiv.org/abs/1909.12790)
+     * [Predicting physics in mesh-reduced space with temporal attention](https://arxiv.org/abs/2201.09113)
     
 
 *  Conformer generation and structure prediction
@@ -70,6 +78,9 @@ Comparison and Docking](https://pubmed.ncbi.nlm.nih.gov/21787306/)
       * [Geometric Transformers for protein interface contact prediction](https://arxiv.org/abs/2110.02423)
       * [A 3D Molecule Generative Model for Structure-Based Drug Design](https://arxiv.org/abs/2203.10446)
       * [Crystal Diffusion Variational Autoencoder for Periodic Material Generation](https://arxiv.org/abs/2110.06197)
+      * [Generating 3D Molecules for Target Protein Binding](https://arxiv.org/abs/2204.09410)
+      * [Generative Coarse-Graining of Molecular Conformations](https://arxiv.org/abs/2201.12176#:~:text=Coarse%2Dgraining%20(CG)%20of,and%20therefore%20drastically%20accelerates%20simulation.)
+      
       
 
 *  Diffusion, SDE and Score Matching Methods
@@ -88,7 +99,7 @@ Comparison and Docking](https://pubmed.ncbi.nlm.nih.gov/21787306/)
       * [Reimaninan Neural SDE](https://openreview.net/pdf?id=SF8lkH-J6e9)
       * [Neural Sheaf Diffusion](https://openreview.net/forum?id=HtLzqEb1aec)
       * [Neural SDEs as Infinite-Dimensional GANs](https://arxiv.org/pdf/2102.03657)
-      * 
+      * [Score-based generative modeling through SDE](https://arxiv.org/abs/2011.13456)
 
 *  RL
 
@@ -96,7 +107,7 @@ Comparison and Docking](https://pubmed.ncbi.nlm.nih.gov/21787306/)
   
   
          
-*  Slides Presented:
+<!-- *  Slides Presented:
      
       * [26/01/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_260122.pdf) [Regular meeting]
       * [2/02/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_02022022.pdf) [Regular Meeting]
@@ -114,7 +125,7 @@ Comparison and Docking](https://pubmed.ncbi.nlm.nih.gov/21787306/)
       * [27/4/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_27042022.pdf)[Regular Meeting]
       * [04/05/2022]()[Regular Meeting]
       * [25/05/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_25052022.pdf)[Regular Meeting]
-      * [01/06/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_01062022.pdf)[Regular Meeting]
+      * [01/06/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_01062022.pdf)[Regular Meeting] -->
 
 
 
